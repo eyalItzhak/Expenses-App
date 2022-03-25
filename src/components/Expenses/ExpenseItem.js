@@ -9,6 +9,7 @@ import Card from "../UI/Card";
 const ExpenseItem = (props) => {
 
   const [title, setTitle] = useState(props.title); //the current value (first element), set Fnctuin (secend element)
+  console.log("ExpenseItem evauted by react")
 
   const clickHandler = () => {
     setTitle("updated!")       //Update the value
