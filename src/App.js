@@ -23,6 +23,31 @@ const DUMMY_EXPENSES = [
     amount: 450,
     date: new Date(2021, 5, 12),
   },
+  {
+    id: "e0",
+    title: "Mini-tv",
+    amount: 230,
+    date: new Date(2021, 4, 12),
+  },
+  {
+    id: "e5",
+    title: "wisky",
+    amount: 110,
+    date: new Date(2021, 4, 12),
+  },
+  {
+    id: "e6",
+    title: "Mixer",
+    amount: 100,
+    date: new Date(2021, 5, 12),
+  },
+  {
+    id: "e7",
+    title: "computer",
+    amount: 900.14,
+    date: new Date(2021, 8, 12),
+  },
+
 
 ];
 
