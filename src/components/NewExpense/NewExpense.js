@@ -8,7 +8,7 @@ const NewExpense = (props) => {
       ...enteredExpenseData,
       id: Math.random().toString(), //no uniq!! to do :need to change latter
     };
-    //console.log(expenseData);
+    console.log(expenseData);
     props.onAddExpense(expenseData);
   };
 
