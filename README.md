@@ -5,7 +5,7 @@
 ### Main page
 The user can choose between the option of adding an "expense" or filtering existing expenses in the system by changing the year.
 
-<img src=https://user-images.githubusercontent.com/62293316/160861380-bdccb9ab-75de-4b09-8de7-cd78be5d15f0.png width="400" height="400">\n
+<img src=https://user-images.githubusercontent.com/62293316/160861380-bdccb9ab-75de-4b09-8de7-cd78be5d15f0.png width="400" height="400">
 
 
 ### Add expense
