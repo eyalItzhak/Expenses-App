@@ -22,7 +22,8 @@ Adding the expense, and updating the expense graph(New financial expenditure in 
 <img src=https://user-images.githubusercontent.com/62293316/160864218-ed6c953e-889b-4438-90b4-c9d6a0cc1779.png width="400" height="400">
 
 
-##Filter by date
+### Filter by date
+
 The user selects a year and gets the expenses of that year with a suitable dynamic graph.
 
 <img src= https://user-images.githubusercontent.com/62293316/160866260-91f1e06f-0946-4d72-b9c9-4af8c5f8191c.png width="400" height="400">
