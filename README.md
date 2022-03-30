@@ -17,7 +17,7 @@ Adding the expense...
 
 <img src=https://user-images.githubusercontent.com/62293316/160864165-58632d4c-979b-4b1c-825b-e2fe2aaec3d5.png width="400" height="90">
 
-Adding the expense, and updating the expense graph(New financial expenditure in April).
+Adding the expense, and updating the expense graph(New financial expend in April).
 
 <img src=https://user-images.githubusercontent.com/62293316/160864218-ed6c953e-889b-4438-90b4-c9d6a0cc1779.png width="400" height="400">
 
